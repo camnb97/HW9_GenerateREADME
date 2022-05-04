@@ -21,3 +21,6 @@ Make sure the pathing is for the correct file.
 Run the code "node index.js" in your terminal.
 Questions will appear one at a time, answer them with the correct information regarding your proect.
 Once every question is answered, a README.md file will be created for you to use in the "output" folder.
+
+Link to walkthrough video: 
+https://watch.screencastify.com/v/WqWrPnx3SfPwbfayPJQu 
